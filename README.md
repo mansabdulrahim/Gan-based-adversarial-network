@@ -34,9 +34,10 @@ Mutual information is a measure of non-linear association between two variables.
 
 ## Model
 
-Below figure describe our full model and the workflow.
+Below figure describe our full model.
 
-![Alternate text](/readme/SAGAN.png)
+![Alternate text](/readme/model1.png)
+![Alternate text](/readme/model3.png)
 
 ## Setup
 
