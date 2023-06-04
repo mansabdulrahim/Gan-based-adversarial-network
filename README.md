@@ -89,6 +89,9 @@ A new folder "visualization" will be created automatically, and for each iterati
 
 ![Alternate text](/readme/adv.gif)
 
-![Alternate text](/readme/DI%20vs%20AttenWei.jpg)   |   ![Alternate text](/readme/accuracy%20vs%20AttenW.jpg)
+<!-- ![Alternate text](/readme/DI%20vs%20AttenWei.jpg)   |   ![Alternate text](/readme/accuracy%20vs%20AttenW.jpg)
 :-------------------------:|:-------------------------:
-**DI vs Attention Weight**  |  **Accuracy vs Attention Weight**
+**DI vs Attention Weight**  |  **Accuracy vs Attention Weight** -->
+
+![Alternate text](/readme/DI_vs_att.png)
+**DI vs Attention Weight**
